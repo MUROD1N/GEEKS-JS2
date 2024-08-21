@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Harry Potter",
+        "age": 17,
+        "occupation": "Wizard",
+        "person_photo": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fsokolov.ru%2Fcollections%2Fharry-potter%2F&psig=AOvVaw3fNlpKXFroQT13JSKXK_7X&ust=1723709487397000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJiJoLeE9IcDFQAAAAAdAAAAABAE"
+    },
+    {
+        "name": "Hermione Granger",
+        "age": 17,
+        "occupation": "Witch",
+        "person_photo": "https://i.pinimg.com/736x/e2/eb/ec/e2ebec25d1ce76be526237257c8a10e2.jpg"
+    },
+    {
+        "name": "Ron Weasley",
+        "age": 17,
+        "occupation": "Wizard",
+        "person_photo": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fheroes-v-villains.fandom.com%2Fwiki%2FRon_Weasley&psig=AOvVaw04M_w57WoqmBEkBm80gPAt&ust=1723710545120000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJjqyq6I9IcDFQAAAAAdAAAAABAI"
+    }
+]
